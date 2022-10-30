@@ -1,0 +1,166 @@
+.wrapper{
+	margin:auto;
+	width:70%;
+}
+.header{
+	background-color:#2e2e2e;
+}
+.header-fc{
+	display:flex;
+	justify-content:space-between;
+}
+.header-fc .logo{
+	width:100px;
+	height:46px;
+}
+.header-fc .navi{
+	width:339px;
+	height:46px;
+}
+.tittle{
+	background-color:#2e2e2e;
+}
+.tittle-fc{
+	display:flex;
+	flex-wrap:wrap;
+}
+.tittle-head{
+	height:104px;
+	width:100%;
+	text-align:center;
+}
+.tittle-para{
+	text-align:center;
+	width:100%;
+	height:48px;
+	margin-top:8px;
+}
+.tittle-but{
+	border:1px solid #3CE7BC;
+	padding:20px;
+	margin-top:48px;
+	margin-left:45%;
+	background-color:#3CE7BC;
+	margin-bottom:306px;
+}
+.about{
+	background-color:#A6ACAF;
+	margin-top:80px;
+	margin-bottom:160px;
+}
+.about-fc{
+	display:flex;
+	flex-wrap:wrap;
+}
+.about-img{
+	height:295px;
+	width:100%;
+	text-align:center;
+	padding-top:50px;
+}
+.some-pic{
+	background-color:white;
+	margin-bottom:48px;
+}
+.some-pic-fc{
+	display:flex;
+	background-color:#E67E22;
+}
+.some-pic-img{
+	height:495px;
+	text-align:center;
+	width:696px;
+	background-color:blue;
+	
+}
+.some-pic-txt{
+	height:495px;
+	text-align:center;
+	width:348px;
+}
+
+
+.mountain{
+	background-color:white;
+	margin-bottom:160px;
+}
+
+.mountain-fc{
+	display:flex;
+	flex-wrap:wrap;
+	background-color:#8EA6C5;
+}
+.mountain-pic{
+	height:370px;
+	background-color:#D352D8;
+	text-align:center;
+	width:50%;
+}
+	
+	
+.mountain-pic1{
+	height:370px;
+	background-color:#80D852;
+	text-align:center;
+	width:50%;
+}
+.footer{
+	background-color:#383838;
+}
+.footer-fc{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.footer-head{
+	margin-top:203px;
+	margin-bottom:48px;
+	text-align:center;
+	height:48px;
+	width:100%;
+}
+	
+	
+.footer-email{
+	height:59px;
+	width:493px;
+	text-align:center;
+	background-color:white;
+	margin-bottom:230px;
+	
+}
+.footer-notify-button{
+	border:1px solid #A6ACAF;
+	padding:20px;
+	margin-left:20px;
+	margin-bottom:230px;
+	
+	background-color:#BDE622;
+}
+.end{
+	background-color:#000000;
+}
+
+.end-fc{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+ .end-fc .end-email
+{
+	border:1px solid white;
+	height:198px;
+	background-color:white;
+	padding:auto;
+	text-align:center;
+	width:30%;
+	margin-bottom:80px;
+}
+.end-fc .end-email1{
+	width:100%;
+	height:21px;
+	color:white;
+	margin-bottom:80px;
+	text-align:center;
+}
+	
